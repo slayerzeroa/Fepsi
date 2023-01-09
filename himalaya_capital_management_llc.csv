@@ -1,0 +1,7 @@
+Stock,Symbol,Type,Shares Held,Market Value,% of Portfolio,Previous % of Portfolio,Ranking,Change in shares,% Change,Change Type,% Ownership,Qtr first owned,sector,source_type,source_date,Avg Price,Recent Price
+Micron technology  inc.,MU,"",11476523.0,893906000.0,37.5687,40.1202,1,0.0,0.0,,1.0403457,Q4 2019,INFORMATION TECHNOLOGY,13F,03/31/2022,50.71,
+Bank of america corp. (north carolina national bank),BAC,"",14586987.0,601276000.0,25.2702,24.3555,2,0.0,0.0,,0.1810500,Q1 2020,FINANCE,13F,03/31/2022,24.78,
+Berkshire hathaway inc class b,BRK.B,"",897749.0,316825000.0,13.3154,10.0739,3,0.0,0.0,,0.0698229,Q3 2021,FINANCE,13F,03/31/2022,272.94,
+Alphabet inc. class c,GOOG,"",85900.0,239918000.0,10.0832,9.3282,4,0.0,0.0,,0.0274111,Q2 2020,COMMUNICATIONS,13F,03/31/2022,1413.61,
+Meta platforms inc,META,"",876200.0,194832000.0,8.1883,11.0602,5,0.0,0.0,,0.0382033,Q2 2020,COMMUNICATIONS,13F,03/31/2022,277.29,
+Apple inc,AAPL,"",759600.0,132634000.0,5.5743,5.062,6,0.0,0.0,,0.0046932,Q4 2020,INFORMATION TECHNOLOGY,13F,03/31/2022,132.69,

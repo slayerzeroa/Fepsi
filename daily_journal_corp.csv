@@ -1,0 +1,6 @@
+Stock,Symbol,Type,Shares Held,Market Value,% of Portfolio,Previous % of Portfolio,Ranking,Change in shares,% Change,Change Type,% Ownership,Qtr first owned,sector,source_type,source_date,Avg Price,Recent Price
+Bank of america corp. (north carolina national bank),BAC,"",2300000.0,71599000.0,40.9301,44.593,1,0.0,0.0,,0.0285470,Q4 2013,FINANCE,13F,06/30/2022,15.57,
+Wells fargo & co.  (northwest bancorporation),WFC,"",1591800.0,62351000.0,35.6434,36.2831,2,0.0,0.0,,0.0419961,Q4 2013,FINANCE,13F,06/30/2022,45.4,
+Alibaba group holding ltd adr,BABA,"",300000.0,34104000.0,19.4958,15.3526,3,0.0,0.0,,0.0110664,Q1 2021,COMMUNICATIONS,13F,06/30/2022,155.07,
+U.s. bancorp (first national bank of cincinnati),USB,"",140000.0,6442000.0,3.6826,3.5,4,0.0,0.0,,0.0094229,Q4 2013,FINANCE,13F,06/30/2022,40.4,
+Posco  inc. adr,PKX,"",9745.0,434000.0,0.2481,0.2714,5,0.0,0.0,,0.0027943,Q4 2013,MATERIALS,13F,06/30/2022,78.0,
